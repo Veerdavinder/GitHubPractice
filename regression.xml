@@ -2,10 +2,10 @@
 <suite name="Test-Suite" >
     <test name="Functional Testing" >
         <packages>
-            <package name="com.leave"/>
-            <package name="com.time"/>
             <package name="com.admin"/>
+            <package name="com.leave"/>
             <package name="com.recruitment"/>
+            <package name="com.time"/>
         </packages>
     </test>
 </suite>
